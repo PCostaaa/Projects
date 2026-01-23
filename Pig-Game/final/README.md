@@ -47,4 +47,4 @@ A simple 2-player dice game. Players take turns rolling a dice, accumulating poi
 3. Right-click `final/index.html` → **Open with Live Server**
 
 ---
-![Project Screenshot](pig_game.jgg)
+![Project Screenshot](Pig-Game/final/pig_game.jpg)
